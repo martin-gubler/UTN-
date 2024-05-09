@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css");
+
+
+*{
+    box-sizing: border-box 0;
+    padding: 0;
+    margin:  0;
+    font-family: "DM", sans-serif;
+}
+
+
+.container-1{
+    color: black;
+    height: 454px;
+    width: 360px;
+    border-radius: 5px;
+    background-color: rgba(194, 171, 247, 0.315);
+}
+
+.container-1 .container-2{
+    padding: 48px 32px;
+}
+.container-1 .stars span{
+    padding: 0px 6px 0px 0px;
+}
+
+.container-1 .container-2 p{
+    padding: 18px 0px 0px;
+    font-size: 14px;
+    color: rgb(47,28,106);
+}
+
+.container-1 .container-2 a{
+    padding: 20px 0px 0px;
+    color: rgb(103,61,230);
+    font-size: 16px;
+}
+
+.container-1 .container-2-bottom{
+    padding: 24px 32px;
+    background-color: #F4F5FF;
+}   
+
+.container-1 .container-2-bottom img{
+    margin: 0px 11px 0px 0px;
+    width: 64px;
+    height: 64px;
+}
+
+.container-1 .container-2-bottom .name{
+    font-size: 18px;
+    color: #2F1C6A;
+}
+
+.container-1 .container-2-bottom .description{
+    font-size: 14px;
+    color: #2F1C6A;
+}
